@@ -3,9 +3,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 500px;
+    max-width: 500px;
     height: 500px;
-    background-color: palegoldenrod;
+    margin-left: 1rem;
+    margin-right: 1rem;
 
     img {
       max-width: 100%;
